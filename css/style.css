@@ -1,4 +1,22 @@
 body {
     background-color: rgb(136, 164, 186);
     color: rgb(0, 0, 0);
+    background-image: url(../images/index-bg.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat ;
+}
+
+.first-header,
+.second-header,
+.lomo-header,
+.ham-header  {
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+
+.bullets {
+    text-align: auto;
+    font-size: 20px;
 }
